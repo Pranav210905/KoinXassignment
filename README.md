@@ -1,6 +1,9 @@
 💰 KoinX Assignment
 A cryptocurrency tracker web application built using React.js, Tailwind CSS, and Chart.js. It allows users to view detailed statistics, historical price charts, and key metrics for popular cryptocurrencies.
 
+website Link:https://phenomenal-tartufo-bf8d7e.netlify.app/
+
+
 🚀 Features
 Real-time crypto data display
 
@@ -39,3 +42,8 @@ KoinXassignment/
 ├── main.jsx          # App entry point
 ├── index.css         # Tailwind CSS imports
 ├── vite.config.js    # Vite configuration
+
+
+
+
+
